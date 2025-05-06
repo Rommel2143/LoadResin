@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Load Resin</string>
+    <string name="scan_machine">Scan Machine</string>
+    <string name="enter_resin">Enter resin…</string>
+    <string name="scan_resin">Scan Resin</string>
+    <string name="save">Save</string>
+    <string name="enter_resin_weight_kg">Enter resin weight (Kg)</string>
+    <string name="enter_you_name">Enter your name…</string>
+    <string name="enter_machine">Enter machine…</string>
+    <string name="resin_loading">Resin Loading</string>
+</resources>
